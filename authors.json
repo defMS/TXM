@@ -30,5 +30,17 @@
         "link": "Smith_03_s03"
       }
     ]
+  },
+  {
+    "path": "Solini",
+    "name": "",
+    "title": "",
+    "description": "",
+    "sessions": [
+      {
+        "name": "Session ",
+        "link": "Correct"
+      }
+    ]
   }
 ]
