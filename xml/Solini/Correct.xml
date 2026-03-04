@@ -1,0 +1,56 @@
+<text>
+ <body>
+
+<p source="keystrokes">
+
+<add seq="000000" type="context" evidence="1">
+  <del seq="000001" type="pre-context" evidence="2">c </del>
+</add>
+
+<add seq="000001" type="context" evidence="4">C</add>
+<add seq="000001" type="context" evidence="6">iao
+
+  <del seq="000003" type="pre-context" evidence="11">u araareartsto frequentando il cpencve,Olin s</del>
+</add>
+<add seq="000004" type="context" evidence="13">, io sono</add>
+
+<add seq="000006" type="context" evidence="24">Matteo
+  <del seq="000008" type="pre-context" evidence="33">s</del>
+</add>  
+
+<add seq="000008" type="context" evidence="35">Solini
+    <del seq="000009" type="pre-context" evidence="42">ì</del>
+    <del seq="000011" type="pre-context" evidence="54"> </del>
+</add>
+
+<add seq="000012" type="context" evidence="56">. </add>
+
+<add seq="000013" type="context" evidence="59">Sono Italiano e vengo dall'università di Pisa. </add>
+
+<add seq="000023" type="context" evidence="112">
+  In questo momento mi trovo presso l'università di Anversa
+    <del seq="000045" type="pre-context" evidence="194">r</del>
+    <del seq="000049" type="pre-context" evidence="207">o</del>
+</add>
+
+
+<add seq="000058" type="context" evidence="251">
+ho deciso di aderire all'iniziativa erasmus.
+</add>
+
+<add seq="000131" type="context" evidence="381">
+Qua devo frequentare diversi corsi
+</add>
+
+</p>
+
+<p source="sources">
+<!-- Encode the sources here -->
+</p>
+
+<p source="notes">
+<!-- Encode possible editor notes here -->
+</p>
+
+</body>
+</text>
